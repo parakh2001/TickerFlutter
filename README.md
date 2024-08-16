@@ -1,16 +1,6 @@
 # timer
+Flutter Project that uses BLOC state management.
+![Screenshot_1723850548](https://github.com/user-attachments/assets/1634bac4-944d-49a9-9a71-8f0303f3aecb)
+![Screenshot_1723850554](https://github.com/user-attachments/assets/2149500d-d758-49d8-bdd6-a6a830c27852)
+![Screenshot_1723850558](https://github.com/user-attachments/assets/b8f3b351-0b71-4826-9e11-fbb12da04201)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
